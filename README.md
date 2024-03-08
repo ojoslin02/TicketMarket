@@ -17,5 +17,5 @@ Copy GitHub files into project directory.
 
 ```shell
 npx hardhat compile
-npx hardhat tests
+npx hardhat test
 ```

@@ -8,7 +8,7 @@ This project demonstrates a basic Hardhat/Solidity use case. To initialize Hardh
 
 ```shell
 npm init
-npm install --save-dev hardhat
+npm install hardhat@latest
 npx hardhat init
 - select 'Create a Typescript project'
 ```
